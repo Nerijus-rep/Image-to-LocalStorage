@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+#imageToLoadInLocalStorage {
+width: 10%;
+}
+#imageToShowFromLocalStorage{
+  width: 10%;  
+}
